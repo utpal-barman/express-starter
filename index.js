@@ -8,7 +8,7 @@ import usersRoutes from './routes/users.js';
 dotenv.config();
 
 const app = express();
-const PORT = 66666;
+const PORT = 55555;
 
 mongoose.connect(process.env.DATABASE_URL, {
   useNewUrlParser: true,
