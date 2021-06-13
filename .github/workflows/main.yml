@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - master
+env: # <--- here
+  DATABASE_URL: ${{secrets.DATABASE_URL}}
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
