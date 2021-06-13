@@ -17,7 +17,7 @@ mongoose.connect(process.env.DATABASE_URL, {
 
 const db = mongoose.connection;
 db.on('connected', () => {
-  console.log('mooonggoooooosse connected');
+  console.log('mongoose connected');
 });
 
 // parse application/x-www-form-urlencoded
