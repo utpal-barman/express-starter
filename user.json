@@ -1,0 +1,29 @@
+[
+  {
+    "name": "utpal",
+    "age": 27,
+    "profession": "engr",
+    "location": "bangladesh"
+  },
+
+  {
+    "name": "rinku",
+    "age": 26,
+    "profession": "stu",
+    "location": "dhaka"
+  },
+
+  {
+    "name": "john",
+    "age": 29,
+    "profession": "developer",
+    "location": "canada"
+  },
+
+  {
+    "name": "richard",
+    "age": 25,
+    "profession": "engr",
+    "location": "usa"
+  }
+]
